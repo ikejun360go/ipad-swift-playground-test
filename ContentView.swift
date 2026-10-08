@@ -6,7 +6,7 @@ struct ContentView: View {
             Image(systemName: "ipad")
                 .font(.largeTitle)
             
-            Text("Version 1")
+            Text("Version 2 from GitHub")
                 .font(.title)
             
             Text("Swift Playground")
